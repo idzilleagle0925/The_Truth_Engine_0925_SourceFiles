@@ -1,7 +1,9 @@
 # The_Truth_Engine_0925_SourceFiles
  TE-925 TRUTH ENGINE: The world’s first TRUTHWARE. A digital arsenal loaded with 100+ Essays, Spoken BCCRSS, and the "Phoenician Hangman" Guillotine protocol. Features deep search, voice injection, and Omega Easter Eggs. This is HEARTWARE for the Living Witness. IT'S ILLEGAL TO USE A LEGAL NAME. Void the Fiction. Reality Re-Asserted.
 
-Due to file size upload limits, there are various zip files.
+Due to file size upload limits, there are various zip files. 
+If you want the executable program software files, then head to the archive site:
+https://archive.org/details/@bccrss2015
 
 The structure of the general project folder and final 'sounds' folder once all is downloaded should be:
 
